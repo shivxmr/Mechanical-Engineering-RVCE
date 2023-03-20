@@ -1,4 +1,4 @@
-# Mechanical-Engineering
+# Mechanical-Engineering-RVCE
 This repository contains Notes, PPTs, Question Papers etc related to Mechanical Engineering.
 
 You can also contribute to this repository by opening a pull request.
